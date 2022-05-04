@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+}
+.bio {
+    font-size: 16px;
+}

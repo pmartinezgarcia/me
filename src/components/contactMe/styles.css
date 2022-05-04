@@ -1,0 +1,20 @@
+.flex-box {
+    display: flex;
+    width: 50vw;
+    height: auto;
+    text-align: center;
+    column-gap: 10px;
+    justify-content: center;
+}
+.email {
+    background-color: white;
+    border: 2px solid darkolivegreen;
+}
+.cell-phone {
+    background-color: white;
+    border: 2px solid darkolivegreen;
+}
+.linked-in {
+    background-color: white;
+    border: 2px solid darkolivegreen;
+}
